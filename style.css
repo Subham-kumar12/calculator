@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Permanent+Marker&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Arvo', sans-serif;
+  background-image: url(./png-clipart-mathematical-equations-jamais-assez-mathematics-euclidean-operation-mathematical-operators-collection-text-orange-thumbnail.png);
+}
+button{
+  width: 66PX;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  background-color: rgb(132, 178, 227);
+}
+.row{
+  margin: 8px 0;
+}
+.row input{
+  font-size: 13PX;
+  margin: 0;
+  padding: 20px 66px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.container{
+  border: 8px solid black;
+  margin: 100px;
+  background-color: rgba(120, 116, 120, 0.933);
+}
+h1{
+  font: bold;
+}
